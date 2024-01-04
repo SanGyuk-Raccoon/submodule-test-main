@@ -1,0 +1,6 @@
+[submodule "submodule-test-sub"]
+	path = submodule-test-sub
+	url = https://github.com/SanGyuk-Raccoon/submodule-test-sub.git
+[submodule "submodule-test-private-sub"]
+	path = submodule-test-private-sub
+	url = https://github.com/SanGyuk-Raccoon/submodule-test-private-sub.git
